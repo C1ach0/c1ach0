@@ -19,7 +19,7 @@
 
 <h4 align="center">-----Others Projects-----</h4>
 
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=C1ach0&repo=REPO)](https://github.com/C1ach0/REPO) -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=C1ach0&repo=Rosy_IA)](https://github.com/C1ach0/Rosy_IA)
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=C1ach0&repo=REPO)](https://github.com/C1ach0/REPO) -->
 
 <p><a href="https://github.com/C1ach0?tab=repositories"> Go To Repository ↣ </a></p>
