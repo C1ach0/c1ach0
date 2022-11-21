@@ -1,16 +1,76 @@
-### Hi there 👋
+<br/>
+<div align="center">
+<p align="center">
+  <a href="https://github.com/C1ach0/">
+    <img src="https://i.imgur.com/jnLoxFE.png" alt="Logo">
+  </a>
+  <p align="center">
+  "When I wrote this code, only God & I understood what I did. Now... only god knows."
+  </p>
+</p>
 
-<!--
-**C1ach0/c1ach0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+***
 
-Here are some ideas to get you started:
+<h3 align="center">-----Main Projects-----</h3>
+  
+[![Rosy](https://github-readme-stats.vercel.app/api/pin/?username=C1ach0&repo=)](https://github.com/C1ach0/)
+[![Frog](https://github-readme-stats.vercel.app/api/pin/?username=C1ach0&repo=)](https://github.com/C1ach0/)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=C1ach0&repo=REPO)](https://github.com/C1ach0/REPO) -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h4 align="center">-----Others Projects-----</h4>
+
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=C1ach0&repo=REPO)](https://github.com/C1ach0/REPO) -->
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=C1ach0&repo=REPO)](https://github.com/C1ach0/REPO) -->
+
+<p><a href="https://github.com/C1ach0?tab=repositories"> Go To Repository ↣ </a></p>
+
+***
+
+<h3 align="center">-----Skill-----</h3>
+</div>
+
+```js
+let dev = {
+  "language": ["C++", "C#", "HTML", "CSS", "Javascript", "SQL"],
+  "IDE": ["VSCode", "Visual Studio"],
+  "OS": ["Windows", "Linux"],
+  "framework-lib": ["QuickDB", "VueJS", "DLL"],
+  "note": "Developer Beginner"
+}
+
+let others = [
+  "electricity"
+]
+```
+***
+
+<h3 align="center">-----Social-----</h3>
+<div align="center">
+  
+[![Discord Presence](https://lanyard.cnrad.dev/api/358629612584173568?animated=:bool)](https://discord.com/users/358629612584173568)
+  
+<!-- ![Discord Banner 2](https://discordapp.com/api/guilds/1030552587323318302/widget.png?style=banner2) -->
+  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]()
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)]()
+[![Paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)]()
+  
+</div>
+
+
+<!-- 
+[![]()]()
+[![]()]()
+[![]()]()
+[![]()]() -->
+<!-- ![](https://geps.dev/progress/10) -->
+
+
+<!-- 
+Usage for Profiles : 
+- https://github.com/alexandresanlim/Badges4-README.md-Profile 
+- ...
 -->
+
