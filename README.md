@@ -13,13 +13,13 @@
 
 <h3 align="center">-----Main Projects-----</h3>
   
-[![Rosy](https://github-readme-stats.vercel.app/api/pin/?username=C1ach0&repo=Rosy-Bot)](https://github.com/C1ach0/Rosy-Bot)
-[![Frog](https://github-readme-stats.vercel.app/api/pin/?username=C1ach0&repo=Frog-Bot)](https://github.com/C1ach0/Frog-Bot)
+[![Rosy](https://github-readme-stats-c1ach0.vercel.app/api/pin/?username=C1ach0&repo=Rosy-Bot)](https://github.com/C1ach0/Rosy-Bot)
+[![Frog](https://github-readme-stats-c1ach0.vercel.app/api/pin/?username=C1ach0&repo=Frog-Bot)](https://github.com/C1ach0/Frog-Bot)
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=C1ach0&repo=DiscordASM)](https://github.com/C1ach0/DiscordASM) -->
 
 <h4 align="center">-----Others Projects-----</h4>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=C1ach0&repo=Rosy_IA)](https://github.com/C1ach0/Rosy_IA)
+[![Readme Card](https://github-readme-stats-c1ach0.vercel.app/api/pin/?username=C1ach0&repo=Rosy_IA)](https://github.com/C1ach0/Rosy_IA)
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=C1ach0&repo=REPO)](https://github.com/C1ach0/REPO) -->
 
 <p><a href="https://github.com/C1ach0?tab=repositories"> Go To Repository ↣ </a></p>
