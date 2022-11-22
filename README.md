@@ -13,9 +13,9 @@
 
 <h3 align="center">-----Main Projects-----</h3>
   
-[![Rosy](https://github-readme-stats.vercel.app/api/pin/?username=C1ach0&repo=)](https://github.com/C1ach0/)
-[![Frog](https://github-readme-stats.vercel.app/api/pin/?username=C1ach0&repo=)](https://github.com/C1ach0/)
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=C1ach0&repo=REPO)](https://github.com/C1ach0/REPO) -->
+[![Rosy](https://github-readme-stats.vercel.app/api/pin/?username=C1ach0&repo=Rosy-Bot)](https://github.com/C1ach0/Rosy-Bot)
+[![Frog](https://github-readme-stats.vercel.app/api/pin/?username=C1ach0&repo=Frog-Bot)](https://github.com/C1ach0/Frog-Bot)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=C1ach0&repo=DiscordASM)](https://github.com/C1ach0/DiscordASM) -->
 
 <h4 align="center">-----Others Projects-----</h4>
 
@@ -51,11 +51,11 @@ let others = [
   
 <!-- ![Discord Banner 2](https://discordapp.com/api/guilds/1030552587323318302/widget.png?style=banner2) -->
   
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]()
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)]()
-[![Paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)]()
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/c1ach0/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxence-bessi/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/clachoverclan)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@kuracho_)
+[![Paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/c1ach0)
   
 </div>
 
@@ -66,11 +66,3 @@ let others = [
 [![]()]()
 [![]()]() -->
 <!-- ![](https://geps.dev/progress/10) -->
-
-
-<!-- 
-Usage for Profiles : 
-- https://github.com/alexandresanlim/Badges4-README.md-Profile 
-- ...
--->
-
