@@ -34,7 +34,7 @@ let dev = {
   "language": ["C++", "C#", "HTML", "CSS", "Javascript", "SQL"],
   "IDE": ["VSCode", "Visual Studio"],
   "OS": ["Windows", "Linux"],
-  "framework-lib": ["QuickDB", "VueJS", "DPP"],
+  "framework-lib": ["DiscordJS", "QuickDB", "VueJS", "DPP"],
   "note": "Developer Beginner"
 }
 
