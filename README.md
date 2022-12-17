@@ -31,10 +31,10 @@
 
 ```js
 let dev = {
-  "language": ["C++", "C#", "HTML", "CSS", "Javascript", "SQL"],
+  "language": ["C++", "C#", "Javascript", "SQL"],
   "IDE": ["VSCode", "Visual Studio"],
-  "OS": ["Windows", "Linux"],
-  "framework-lib": ["DiscordJS", "QuickDB", "VueJS", "DPP"],
+  "OS": ["Windows"],
+  "framework-lib": ["DiscordJS", "QuickDB", "DPP", "Tailwind"],
   "note": "Developer Beginner"
 }
 
