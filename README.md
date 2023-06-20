@@ -1,9 +1,12 @@
 <br/>
 <div align="center">
 <p align="center">
-  <a href="https://github.com/C1ach0/">
+  <a href="https://rosydev.fr">
     <img src="https://i.imgur.com/jnLoxFE.png" alt="Logo">
   </a>
+
+  [**__Rosydev - Freelance__**](https://rosydev.fr)  
+  
   <p align="center">
   "When I wrote this code, only God & I understood what I did. Now... only god knows."
   </p>
@@ -31,11 +34,15 @@
 
 ```js
 let dev = {
-  "language": ["C++", "C#", "Javascript", "SQL"],
+  "language": ["C++", "C#", "Javascript", "SQL", "Java"],
   "IDE": ["VSCode", "Visual Studio"],
   "OS": ["Windows"],
-  "framework-lib": ["DiscordJS", "QuickDB", "DPP", "Tailwind"],
-  "note": "Developer Beginner"
+  "framework-lib": [
+    "DiscordJS", "QuickDB", "DPP",
+    "Tailwindcss", "Spring", "Vuejs"
+  ],
+  "others-tools": ["Docker", "Nginx", "MariaDB"],
+  "note": "Java Full Stack Developper"
 }
 
 let others = [
