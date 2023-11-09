@@ -13,4 +13,4 @@ My name is Maxence, I’m 19. I'm from La Seyne sur Mer, France. I started my de
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,java,cpp,docker,git,idea,vscode,maven,mysql,nginx,tailwind,vue,spring&perline=12)]( )
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,java,cpp,docker,git,idea,vscode,maven,mysql,nginx,tailwind,vue,spring,bash,php,laravel,sass&perline=12)]( )
