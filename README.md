@@ -7,11 +7,11 @@ Hi, I’m Maxence, a passionate developer based in France. My development journe
 
 <h3 align="left">Social Networks:</h3>
 
-- Discord: [Kuracho](https://discord.com/users/358629612584173568) | [kupiameow](https://discord.com/users/1247224673091977228)
+- Discord: [kuracho](https://discord.com/users/358629612584173568)
 - Linkedin: [Maxence Bessi](https://www.linkedin.com/in/maxence-bessi/)
 - My Website: [Rosydev](https://rosydev.fr)
 - My Portfolio: [Maxence Bessi](https://maxence-bessi.com)
-- Email: bessimaxence@gmail.com
+- Email: contact@maxence-bessi.com
 
 <h3 align="left">Languages and Tools:</h3>
 
